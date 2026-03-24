@@ -34,8 +34,6 @@ I care deeply about **systems, not just models**.
 
 ## 🚀 Selected Work
 
-> (Links can be added as repositories are made public)
-
 ### 🔹 Restaurant Intelligence & Embeddings
 - Developed embedding-based systems for similarity and benchmarking  
 - Enabled downstream applications like clustering and retrieval  
